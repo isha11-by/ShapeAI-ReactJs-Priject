@@ -1,1 +1,1 @@
-# ShapeAI-ReactJs-Priject
+# ShapeAI-ReactJs-Project
